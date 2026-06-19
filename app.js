@@ -3,9 +3,9 @@
 // =========================================================================
 const LIBRARY_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTB7hyRJUH6A6fNQQJp6Fh0rDgLWy1_-To7jmmqXT7tjQJZftKXuoDPMNexwknD2ZV4QNlj5ozXxHuO/pub?gid=0&single=true&output=csv";
 const TRACKING_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTB7hyRJUH6A6fNQQJp6Fh0rDgLWy1_-To7jmmqXT7tjQJZftKXuoDPMNexwknD2ZV4QNlj5ozXxHuO/pub?gid=561398745&single=true&output=csv";
-const TRACKING_URL = "https://script.google.com/macros/s/AKfycbyL4Ws4DK8UH_VbTE_4ENW9vmy7WRkIly71NfPLDm2CF3oeBf91jUOTkXuSJtJWiWMEHQ/exec";
+const TRACKING_URL = "https://script.google.com/macros/s/AKfycbxRN1_C5j0sR-pUeOLgvf8xi_X7s6ZSGLwpEg_d5wVSxvQfWdPYayeO9Qo-Ff2S2qHGQA/exec";
 const TEACHER_PIN = "@pple";
-const REFRESH_INTERVAL = 15000;
+const REFRESH_INTERVAL = 10000;
 const COLORS = ['#f9a8d4', '#d8b4fe', '#a5b4fc', '#7dd3fc', '#5eead4', '#86efac', '#fde047', '#fdba74', '#fca5a5', '#c4b5fd'];
 let studentName = "";
 let activities = {};
